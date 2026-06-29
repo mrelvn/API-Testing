@@ -1,2 +1,18 @@
-# API-Testing
-API Automation using playwright with JavaScript
+# API Testign using Playwright
+
+## Tech Stack
+- Playwright
+- JavaScript
+- Node.js
+
+## Features
+- API Automation
+- Data-Driven Testing
+- API Chaining
+- Response Validation
+- JSON Schema Validation
+
+## Run the Project
+bash
+npm install
+npx playwright test
