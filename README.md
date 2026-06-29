@@ -2,7 +2,7 @@
 
 ## Tech Stack
 - Playwright
-- JavaScript
+- TypeScript
 - Node.js
 
 ## Features
