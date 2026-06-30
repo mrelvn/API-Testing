@@ -15,6 +15,6 @@
 ## Run the Project
 bash
 <br>
-npm playwright install
+npx playwright install
 <br>
 npx playwright test
